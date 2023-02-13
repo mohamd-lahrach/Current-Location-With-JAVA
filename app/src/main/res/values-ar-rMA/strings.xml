@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="city">"المدينة : "</string>
+    <string name="country">"الدولة : "</string>
+    <string name="address">"العنوان : "</string>
+</resources>
